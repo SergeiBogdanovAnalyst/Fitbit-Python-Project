@@ -5,7 +5,8 @@ Welcome to the Fitbit Python Project! This project is designed to analyze Fitbit
 ![OG-image-fitbit-generic](https://github.com/user-attachments/assets/9c424fc1-1456-4bf0-82d9-8e1f91707fb0)
 Fitbit is an American consumer electronics and fitness company. It produces wireless-enabled wearable technology physical fitness monitors and activity trackers such as smart watches, pedometers and monitors for heart rate, quality of sleep, and stairs climbed as well as related software.
 
-What to expect? --> Identify insights and opportunities from Fitbit Fitness Tracker data for feature development.
+What to expect? --> Identify insights and opportunities from Fitbit Fitness Tracker data for feature development. [Fitbit Data from Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit?source=post_page-----c18835475563--------------------------------)
+
 
 ## Features
 **1. Activity Tracking**
