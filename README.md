@@ -1,8 +1,11 @@
 # Fitbit Python Project
 
 ## Overview
-Welcome to the Fitbit Python Project! This project is designed to analyze Fitbit data and provide valuable insights into activity and health habits. Our goal is to offer a comprehensive tool that helps users understand their fitness patterns, track progress, and make informed decisions about their health. 
-This README file will guide you through the setup process, highlight key features, and provide instructions on how to use the project effectively.
+Welcome to the Fitbit Python Project! This project is designed to analyze Fitbit data and provide valuable insights into activity and health habits. My goal is to offer a insights that help users understand their fitness patterns, track progress, and make informed decisions about their health. 
+![OG-image-fitbit-generic](https://github.com/user-attachments/assets/9c424fc1-1456-4bf0-82d9-8e1f91707fb0)
+Fitbit is an American consumer electronics and fitness company. It produces wireless-enabled wearable technology physical fitness monitors and activity trackers such as smart watches, pedometers and monitors for heart rate, quality of sleep, and stairs climbed as well as related software.
+
+What to expect? --> Identify insights and opportunities from Fitbit Fitness Tracker data for feature development.
 
 ## Features
 **1. Activity Tracking**
