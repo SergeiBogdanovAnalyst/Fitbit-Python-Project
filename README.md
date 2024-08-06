@@ -8,11 +8,11 @@ Fitbit is an American consumer electronics and fitness company. It produces wire
 What to expect? --> Identify insights and opportunities from Fitbit Fitness Tracker data for feature development. [Fitbit Data from Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit?source=post_page-----c18835475563--------------------------------)
 
 ## Features
-**Loading Data: Import and read CSV data files into the project for analysis.
+**Loading Data: Import and read CSV data files into the project for analysis.**
 
-**Data Cleaning and Processing: Clean and preprocess the data by merging datasets with pandas. Perform operations to compute new values based on the integrated dataset.
+**Data Cleaning and Processing: Clean and preprocess the data by merging datasets with pandas. Perform operations to compute new values based on the integrated dataset.**
 
-**Data Visualization: Create three visualizations using matplotlib, seaborn, or another plotting library to present and analyze the data effectively.
+**Data Visualization: Create three visualizations using matplotlib, seaborn, or another plotting library to present and analyze the data effectively.**
 
 ## Data Dictionary
 
