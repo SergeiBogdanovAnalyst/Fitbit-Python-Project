@@ -14,6 +14,10 @@ What to expect? --> Identify insights and opportunities from Fitbit Fitness Trac
 
 **Data Visualization: Create three visualizations using matplotlib, seaborn, or another plotting library to present and analyze the data effectively.
 
+## Data Dictionary
+
+Please refer to the [Data Dictionary](DATA_DICTIONARY.md) for detailed information about the dataset fields.
+
 ## Features
 **1. Activity Tracking**
 
