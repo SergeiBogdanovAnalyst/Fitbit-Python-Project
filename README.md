@@ -18,16 +18,17 @@ What to expect? --> Identify insights and opportunities from Fitbit Fitness Trac
 
 Please refer to the [Data Dictionary](Data_Dictionary) for detailed information about the dataset fields.
 
-## Features
-**1. Activity Tracking**
+## Insights
 
-Analyze daily activity metrics such as steps taken, and calories burned. This feature helps users monitor their physical activity levels over time.
+**1. Activity Tracking Insights**
 
-**2. Sleep Analysis**
+Discover valuable information about your daily activity through detailed metrics like steps taken and calories burned. This insight helps users understand their physical activity trends and assess their overall activity levels over time.
 
-Evaluate sleep patterns and quality, including total sleep duration, sleep stages, and sleep efficiency. This provides insights into how well users are sleeping and areas for improvement.
+**2. Sleep Quality Insights**
 
-**3. Goal Setting and Progress Tracking**
+Evaluate your sleep patterns with insights into total sleep duration, sleep stages, and sleep efficiency. These insights provide a clear picture of your sleep quality and highlight areas where you can make improvements for better rest.
 
-Set fitness goals and track progress towards achieving them. This feature allows users to establish personal targets for steps, distance, calories, and more, and monitor their progress over time.
+**3. Goal Achievement Insights**
+
+Monitor your progress towards personal fitness goals by tracking your performance in areas such as steps, distance, and calories. These insights help users stay on track with their fitness objectives and make informed adjustments to their routines.
 
