@@ -23,12 +23,16 @@ Please refer to the [Data Dictionary](Data_Dictionary) for detailed information 
 **1. Activity Tracking Insights**
 
 Discover valuable information about your daily activity through detailed metrics like steps taken and calories burned. This insight helps users understand their physical activity trends and assess their overall activity levels over time.
+![download](https://github.com/user-attachments/assets/fc11b0fa-7fe9-4521-a747-0de1cb2f8abc)
 
 **2. Sleep Quality Insights**
 
 Evaluate your sleep patterns with insights into total sleep duration, sleep stages, and sleep efficiency. These insights provide a clear picture of your sleep quality and highlight areas where you can make improvements for better rest.
 
+![download (1)](https://github.com/user-attachments/assets/f107972a-e72a-472d-9627-b5c562818f9b)
+
 **3. Goal Achievement Insights**
 
 Monitor your progress towards personal fitness goals by tracking your performance in areas such as steps, distance, and calories. These insights help users stay on track with their fitness objectives and make informed adjustments to their routines.
 
+![download (2)](https://github.com/user-attachments/assets/9553e06b-85e2-48c7-96e9-351de5da6232)
