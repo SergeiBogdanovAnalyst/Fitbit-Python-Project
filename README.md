@@ -16,7 +16,7 @@ What to expect? --> Identify insights and opportunities from Fitbit Fitness Trac
 
 ## Data Dictionary
 
-Please refer to the [Data Dictionary](Data_Dictionary) for detailed information about the dataset fields.
+Please refer to the [Data Dictionary](Data_Dictionary.md) for detailed information about the dataset fields.
 
 ## Insights
 
